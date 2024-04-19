@@ -5,9 +5,6 @@ import prophet
 from prophet import Prophet
 from prophet.plot import plot_plotly, plot_components_plotly
 
-import IPython
-from IPython.display import display
-
 import folium
 from folium.plugins import HeatMap, HeatMapWithTime
 
