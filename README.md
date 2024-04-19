@@ -27,7 +27,7 @@ Enjoy visualizing!
 
 ## Summary of Files:
 - Data Collection, Cleaning and Wrangling [data_cleaning/](https://github.com/a-memme/arlington_crime_density/tree/main/data_cleaning):
-    - Navigate to this folder to view preliminary notebooks and datasets derived through the preliminary data collection stage.
+    - Navigate to this folder to view preliminary notebooks and datasets derived through the data collection and eda stages.
     - Core crime density data scraped from [Arlington County Daily Crime Report](https://www.arlingtonva.us/About-Arlington/Newsroom?dlv_ARL%20CL%20Public%20News%20Listing%20without%20Image=(dd_OC%20News%20Categories=Daily%20Crime%20Report))
 
 - Analysis and Modeling [ml_files/](https://github.com/a-memme/arlington_crime_density/tree/main/ml_files)
