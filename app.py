@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 
 import folium
+import streamlit_folium
 from streamlit_folium import st_folium, folium_static
 
 from methods import ZipMap, TimeLapse, read_data
