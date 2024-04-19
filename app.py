@@ -8,6 +8,10 @@ from streamlit_folium import st_folium, folium_static
 
 from methods import ZipMap, TimeLapse, read_data
 
+import plotly
+import chart_studio.plotly as py
+from plotly import graph_objs as go
+
 #Build App
 #App Code 
 
@@ -99,7 +103,8 @@ def main():
         #Interactive About Bar    
         about_bar = st.expander("**About This Section**")
         about_bar.markdown("""
-                            *Select Map Type and Timeframe to begin building your own timelapse map - Click 'Render Map' to view.
+                            * Select Map Type and Timeframe to build your own Timelapse Map - Click 'Render Map' to view.
+                           * Press play once the map has rendered to view how crime density trends have changed over time
                            
                         """)
         
