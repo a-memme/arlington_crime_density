@@ -23,14 +23,14 @@ class ZipMap:
         self.data = data
     
     def get_params(self):
-        params = {'changepoint_prior_scale': 2.0572436973839325,
-                'changepoint_range': 0.8372595709743088,
-                'seasonality_prior_scale': 3.0669614906164115,
-                'holidays_prior_scale': 5.944894747597239,
-                'seasonality_mode': 'multiplicative',
-                'weekly_seasonality': 7,
-                'yearly_seasonality': 4}
-        
+        params = {'changepoint_prior_scale': 4.996475664138592,
+                    'changepoint_range': 0.8890031218567486,
+                    'seasonality_prior_scale': 0.8227345812003487,
+                    'holidays_prior_scale': 2.526746266237134,
+                    'seasonality_mode': 'additive',
+                    'weekly_seasonality': 7,
+                    'yearly_seasonality': 13}
+                
         return params
 
     def prophet_forecast(self, params, zip_code, crime_cat, periods=12):
