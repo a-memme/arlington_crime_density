@@ -4,7 +4,7 @@
 *Cumulative Masters Program Project by Andrew Memme, Evan Nunez, James McMullen, Curtis Wideman, and Lukas Santoso*
 
 ## Instructions 
-Click the link below to interact with our Crime Density Dashboard. Two tabs interactive visualizations focusing on predictive crime density, and how trends have developed and changed over time:
+Click the link below to interact with our Crime Density Dashboard. Two tabs display interactive visualizations focusing on predictive crime density, and how trends have changed over time and space:
 
 [Crime Density Dashboard](https://arlingtoncrimedensity2016-2024.streamlit.app/)
 
