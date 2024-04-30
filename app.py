@@ -72,7 +72,7 @@ def main():
 
         zips = zm.aggregate_zips()
         
-        #Geojson for zipcode borders
+        #Geojson for zipcode borders - check
         geojson = 'va_zip_geo.json'
         geojson_df = zm.geojson_zips(geojson)
 
