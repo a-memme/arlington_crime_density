@@ -85,7 +85,8 @@ def main():
         with col1:
             #Folium map
             zip_map = zm.create_map(zips, geojson_df)
-            st_map = st_folium(zip_map, width=700, height=525)
+            #st_map = st_folium(zip_map, width=700, height=525)
+            st_map = st_folium(zip_map, width=700, height=600)
 
         with col2:
             #Access clickable forecasting
