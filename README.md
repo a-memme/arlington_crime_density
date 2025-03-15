@@ -1,7 +1,7 @@
 # Arlington Crime Density - 2016 to Feb 2024
 *Exploration, analysis and forecasting of crime density in Arlington VA from 2016-2024.*
 
-*Cumulative Masters Program Project by Andrew Memme, Evan Nunez, James McMullen, Curtis Wideman, and Lukas Santoso*
+*Cumulative Masters Program Project (Georgia Institude of Technology Masters of Science in Analytics) by Andrew Memme, Evan Nunez, James McMullen, Curtis Wideman, and Lukas Santoso*
 
 ## Instructions 
 Click the link below to interact with our Crime Density Dashboard. Two tabs display interactive visualizations focusing on predictive crime density, and how trends have changed over time and space:
